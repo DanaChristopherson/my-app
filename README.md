@@ -1,1 +1,1 @@
-React app (tic tac tow game)
+React app (tic tac toe game)
